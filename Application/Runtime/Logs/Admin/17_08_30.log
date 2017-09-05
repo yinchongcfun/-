@@ -1,0 +1,7 @@
+[ 2017-08-30T15:54:41+08:00 ] 127.0.0.1 /index.php/Admin/Look/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+SQL: SHOW COLUMNS FROM `tbpanduan` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `tbpanduan` WHERE ( pici=3 )  [ RunTime:0.0008s ]
+

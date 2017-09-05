@@ -1,0 +1,100 @@
+.biaoti{
+    text-align: center; 
+    background-color:lightskyblue;
+    display: block;
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    position: fixed;
+    left: 10%;
+    color: #fff;
+}
+.biaoti h2{
+    font-size: 30px;
+    font-weight: 100;
+    color: #fff;
+    padding: 15px 0 5px 0;
+    position: relative;
+}
+.uesr1{
+    position: relative;
+    font-size: 18px;
+    color: white;
+}
+.time{
+    margin:0 30px;
+}
+.sub{
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 16px;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    background-color: transparent;
+}
+.sub:hover{
+    background-color: red;
+    border: 1px solid red;
+    color: #fff;
+}
+.biaoti .uesr1 input{
+    display: block;
+    margin-right: 20px;
+}
+.con{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+.user{
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+
+}
+.one{
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: black;
+    background-color: gainsboro;
+}
+.vc{
+    background-color: whitesmoke;
+}
+.one-h4{
+    font-weight: 100;
+    font-size: 18px;
+}
+ul{
+    font-size: 14px;
+    padding: 10px 0;
+}
+ul li{
+    padding: 5px 0;
+    display: inline-block;
+    margin-right: 60px;
+    color: #333;
+}
+.box{
+    margin-bottom: 10px;
+}
+.tijiao{
+    margin: 0 auto;
+}
+.tijiao input{
+    font-size: 20px;
+    color: #f30000;
+    width: 160px;
+    height: 40px;
+    background-color: transparent;
+    border:1px solid #f30000;
+    margin: 20px auto;
+    display: block;
+}
+.tijiao input:hover{
+    background-color: #f30000;
+    border:1px solid #f30000;
+    color: #fff;
+}

@@ -1,0 +1,14 @@
+[ 2017-08-28T12:43:21+08:00 ] 127.0.0.1 /index.php/Admin/Look/res
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `tbuser` [ RunTime:0.0070s ]
+SQL: UPDATE `tbuser` SET `userpwd`='123456' WHERE ( id=6 ) [ RunTime:0.0268s ]
+
+[ 2017-08-28T16:02:14+08:00 ] 127.0.0.1 /index.php/Admin/Look/search
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002678s ]
+SQL: SHOW COLUMNS FROM `tbradio` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `tbradio` WHERE ( pici=2 )  [ RunTime:0.0347s ]
+
